@@ -65,7 +65,7 @@ class Parent {
         this.name = name
     }
     sayHello() {
-        console.log('hello, I am ' + this.name + '!')
+        console.log('hello,  I am ' + this.name + '!')
     }
 }
 
